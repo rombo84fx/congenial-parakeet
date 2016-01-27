@@ -1,0 +1,25 @@
+E1.1 What command would you use to read about the terminal driver, tty (not the tty command)? How
+would you read a local tty man page that was kept in /usr/local/share/man?
+ANSWER For the first question the command is man 4 tty.
+For the second question the command is man -M /usr/local/share/man tty.
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9954102... Add solution 1
+<<<<<<< d7d6e58652823eac556daae65380fa5cbb5fe081
+=======
+Special notes about man:
+man -k == apropos, search for keyword in descriptions
+man -f == whatis, search for whole word
+
+>>>>>>> Add solution 1
+<<<<<<< HEAD
+=======
+>>>>>>> d7d6e58... Add solution 1
+=======
+>>>>>>> 9954102... Add solution 1
+E1.2 Does a system-wide config file control the behavior of the man command at your site? What lines
+would you add to this file if you wanted to store local material in /doc/man? What directory structure
+would you have to use in /doc/man to make it a full citizen of the man page hierachy?
+ANSWER The /private/etc/man.conf is default system-wide config file. 
