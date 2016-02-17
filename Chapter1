@@ -5,8 +5,11 @@ For the second question the command is man -M /usr/local/share/man tty.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9954102... Add solution 1
+=======
+>>>>>>> da8fa4f7ad84193502e31fb9b679dde336a1c79d
 <<<<<<< d7d6e58652823eac556daae65380fa5cbb5fe081
 =======
 Special notes about man:
@@ -15,10 +18,13 @@ man -f == whatis, search for whole word
 
 >>>>>>> Add solution 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> d7d6e58... Add solution 1
 =======
 >>>>>>> 9954102... Add solution 1
+=======
+>>>>>>> da8fa4f7ad84193502e31fb9b679dde336a1c79d
 E1.2 Does a system-wide config file control the behavior of the man command at your site? What lines
 would you add to this file if you wanted to store local material in /doc/man? What directory structure
 would you have to use in /doc/man to make it a full citizen of the man page hierachy?
